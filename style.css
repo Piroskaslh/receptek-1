@@ -1,0 +1,19 @@
+html {
+    background-color:moccasin;
+    font-family: 'Pacifico', sefrif;
+    Color: #DF826C;
+    border: 20px solid white;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2{
+    margin-bottom: -25px;
+    text-decoration: underline; 
+    display: inline-block;
+}
+
+h1 {
+    letter-spacing: 15px;
+    text-shadow: 5px 5px 4px grey; 
+}
